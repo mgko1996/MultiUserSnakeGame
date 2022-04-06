@@ -7,4 +7,6 @@
   기능
     1. PO 사용
     2. Multi Play 기능
+  언어
+    JAVA
 ```
